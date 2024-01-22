@@ -5,7 +5,7 @@ function Footer() {
     <section className="sm:px-16 py-4 px-8 flex justify-between items-center gap-2 flex-wrap bg-[#df6d63]">
       <p className="text-base font-bold text-white">@2023 ANIMENATION</p>
       <Image
-        src="/./logo3.jpeg"
+        src="/logo3.jpeg"
         alt="logo"
         width={47}
         height={44}
